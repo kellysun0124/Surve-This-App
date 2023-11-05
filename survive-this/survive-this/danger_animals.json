@@ -1,0 +1,824 @@
+{
+  "wild_animals": [
+    {
+      "name": "trilobite",
+      "survival_guide": "Trilobites are extinct marine arthropods. No encounter is possible."
+    },
+    {
+      "name": "harvestman",
+      "survival_guide": "Harvestmen, also known as daddy longlegs, are not venomous and are harmless to humans."
+    },
+    {
+      "name": "scorpion",
+      "survival_guide": "When encountering a scorpion, avoid provoking it. If stung, clean the wound and seek medical attention."
+    },
+    {
+      "name": "black and gold garden spider",
+      "survival_guide": "These spiders are not dangerous to humans. Avoid disturbing their webs to prevent bites."
+    },
+    {
+      "name": "barn spider",
+      "survival_guide": "Barn spiders are not harmful to humans and help control pests. Avoid harming them."
+    },
+    {
+      "name": "garden spider",
+      "survival_guide": "Garden spiders are not dangerous to humans. Avoid disturbing their webs."
+    },
+    {
+      "name": "black widow",
+      "survival_guide": "Black widow spiders are venomous. If bitten, seek immediate medical attention. Avoid provoking or handling them."
+    },
+    {
+      "name": "tarantula",
+      "survival_guide": "Tarantulas are generally not life-threatening to humans but can bite if threatened. Keep a safe distance and avoid handling them."
+    },
+    {
+      "name": "wolf spider",
+      "survival_guide": "Wolf spiders are not dangerous to humans. They are beneficial for pest control. Avoid harming them."
+    },
+    {
+      "name": "tick",
+      "survival_guide": "Ticks can transmit diseases. When in tick-prone areas, wear protective clothing, use tick repellent, and check for ticks after outdoor activities."
+    },
+    {
+      "name": "centipede",
+      "survival_guide": "Centipedes can deliver painful bites, but they are not usually life-threatening. Avoid handling them and use ice or pain relief if bitten."
+    },
+    {
+      "name": "black grouse",
+      "survival_guide": "Black grouse are not dangerous to humans. Observe them from a distance to avoid disturbing them."
+    },
+    {
+      "name": "ptarmigan",
+      "survival_guide": "Ptarmigans are not dangerous to humans. Maintain a respectful distance when encountering them."
+    },
+    {
+      "name": "ruffed grouse",
+      "survival_guide": "Ruffed grouse are not dangerous to humans. Keep a safe distance when observing them."
+    },
+    {
+      "name": "prairie chicken",
+      "survival_guide": "Prairie chickens are not dangerous to humans. Approach them quietly to avoid startling them."
+    },
+    {
+      "name": "peacock",
+      "survival_guide": "Peacocks are generally not dangerous to humans. Maintain a safe distance and avoid provoking them."
+    },
+    {
+      "name": "quail",
+      "survival_guide": "Quails are generally not dangerous to humans. If you encounter them, maintain a respectful distance to avoid disturbing them."
+    },
+    {
+      "name": "partridge",
+      "survival_guide": "Partridges are not typically dangerous to humans. Approach them quietly to observe without startling them."
+    },
+    {
+      "name": "African grey",
+      "survival_guide": "African grey parrots are not dangerous to humans. Approach them calmly and avoid sudden movements when interacting with them."
+    },
+    {
+      "name": "macaw",
+      "survival_guide": "Macaws are usually not dangerous to humans but can bite if provoked. Approach them gently and avoid loud noises."
+    },
+    {
+      "name": "sulphur-crested cockatoo",
+      "survival_guide": "Sulphur-crested cockatoos are not typically dangerous but can be aggressive if they feel threatened. Maintain a safe distance and avoid feeding them."
+    },
+    {
+      "name": "lorikeet",
+      "survival_guide": "Lorikeets are generally not dangerous to humans. Approach them calmly and offer food from a distance if you want to interact with them."
+    },
+    {
+      "name": "coucal",
+      "survival_guide": "Coucals are not dangerous to humans. Keep a safe distance when observing them in their natural habitat."
+    },
+    {
+      "name": "bee eater",
+      "survival_guide": "Bee eaters are not dangerous to humans. Enjoy watching them from a distance without disturbing their activities."
+    },
+    {
+      "name": "hornbill",
+      "survival_guide": "Hornbills are generally not dangerous to humans. Keep a respectful distance when encountering them in the wild."
+    },
+    {
+      "name": "hummingbird",
+      "survival_guide": "Hummingbirds are not dangerous to humans. Watch them from a distance to avoid causing stress."
+    },
+    {
+      "name": "jacamar",
+      "survival_guide": "Jacamars are not typically dangerous to humans. Maintain a safe distance when observing them in their habitat."
+    },
+    {
+      "name": "toucan",
+      "survival_guide": "Toucans are generally not dangerous to humans. Avoid trying to touch or handle them to prevent stress."
+    },
+    {
+      "name": "drake",
+      "survival_guide": "Drakes are male ducks and are not typically dangerous to humans. Maintain a respectful distance when encountering them."
+    },
+    {
+      "name": "red-breasted merganser",
+      "survival_guide": "Red-breasted mergansers are not dangerous to humans. Enjoy observing them from a distance in their natural habitat."
+    },
+    {
+      "name": "goose",
+      "survival_guide": "Geese can be protective of their nests and may become aggressive if provoked. Keep a safe distance and avoid getting too close."
+    },
+    {
+      "name": "black swan",
+      "survival_guide": "Black swans are not usually dangerous to humans. Maintain a respectful distance to avoid startling them."
+    },
+    {
+      "name": "tusker",
+      "survival_guide": "Tuskers are elephants with large tusks. When encountering wild elephants, keep a safe distance and do not provoke them."
+    },
+    {
+      "name": "echidna",
+      "survival_guide": "Echidnas are not dangerous to humans. If you encounter one, observe from a distance without disturbing them."
+    },
+    {
+      "name": "platypus",
+      "survival_guide": "Platypuses are generally not dangerous to humans. Keep a respectful distance if you encounter them in the wild."
+    },
+    {
+      "name": "wallaby",
+      "survival_guide": "Wallabies are not typically dangerous to humans. Maintain a safe distance when observing them in their natural habitat."
+    },
+    {
+      "name": "koala",
+      "survival_guide": "Koalas are not dangerous but can scratch or bite if stressed. Approach them calmly and avoid touching them."
+    },
+    {
+      "name": "wombat",
+      "survival_guide": "Wombats are not typically dangerous to humans. Keep a safe distance when encountering them in the wild."
+    },
+    {
+      "name": "jellyfish",
+      "survival_guide": "Jellyfish can deliver painful stings. Avoid contact with jellyfish in the water and seek medical attention if stung."
+    },
+    {
+      "name": "sea anemone",
+      "survival_guide": "Sea anemones are not dangerous to humans but can sting if touched. Avoid contact with them in the ocean."
+    },
+    {
+      "name": "brain coral",
+      "survival_guide": "Brain corals are not dangerous to humans. Avoid damaging or disturbing coral reefs when diving or snorkeling."
+    },
+    {
+      "name": "flatworm",
+      "survival_guide": "Flatworms are generally not dangerous to humans. Avoid handling them to prevent stress or injury."
+    },
+    {
+      "name": "nematode",
+      "survival_guide": "Nematodes are microscopic worms and are not dangerous to humans. No specific survival precautions are needed."
+    },
+    {
+      "name": "conch",
+      "survival_guide": "Conchs are not dangerous but are often protected by conservation laws. Do not collect or harm them."
+    },
+    {
+      "name": "snail",
+      "survival_guide": "Snails are not dangerous to humans. Avoid stepping on them if encountered in your path."
+    },
+    {
+      "name": "slug",
+      "survival_guide": "Slugs are not dangerous to humans. Avoid touching them to prevent stress or discomfort."
+    },
+    {
+      "name": "sea slug",
+      "survival_guide": "Sea slugs are not dangerous to humans but can have toxins. Avoid handling them in the ocean."
+    },
+    {
+      "name": "chiton",
+      "survival_guide": "Chitons are not dangerous to humans. Avoid disturbing them if encountered in tide pools or on rocky shores."
+    },
+    {
+      "name": "chambered nautilus",
+      "survival_guide": "Chambered nautiluses are not dangerous to humans. Avoid collecting them as they are often protected species."
+    },
+    {
+      "name": "Dungeness crab",
+      "survival_guide": "Dungeness crabs are not dangerous to humans. When harvesting or preparing them for food, follow local regulations."
+    },
+    {
+      "name": "rock crab",
+      "survival_guide": "Rock crabs are not dangerous to humans. Follow regulations when harvesting or handling them for food."
+    },
+    {
+      "name": "fiddler crab",
+      "survival_guide": "Fiddler crabs are not dangerous to humans. When observing them, be mindful of their burrows and avoid causing disturbances."
+    },
+    {
+      "name": "king crab",
+      "survival_guide": "King crabs are not typically dangerous to humans. Exercise caution when handling them, as they may have sharp spines."
+    },
+    {
+      "name": "American lobster",
+      "survival_guide": "American lobsters are not typically dangerous, but their claws can pinch. Handle them with care if necessary."
+    },
+    {
+      "name": "spiny lobster",
+      "survival_guide": "Spiny lobsters are not typically dangerous to humans. Handle them carefully if you need to do so."
+    },
+    {
+      "name": "crayfish",
+      "survival_guide": "Crayfish are not dangerous to humans. When catching or handling them, be gentle to avoid injury to the crayfish."
+    },
+    {
+      "name": "hermit crab",
+      "survival_guide": "Hermit crabs are not dangerous to humans. If you encounter them, observe from a distance without disrupting their habitats."
+    },
+    {
+      "name": "isopod",
+      "survival_guide": "Isopods are not dangerous to humans. Handle them with care to avoid injuring them."
+    },
+    {
+      "name": "white stork",
+      "survival_guide": "White storks are not dangerous to humans. Keep a safe distance when observing them in their natural habitat."
+    },
+    {
+      "name": "black stork",
+      "survival_guide": "Black storks are not dangerous to humans. Approach them calmly to avoid causing stress."
+    },
+    {
+      "name": "spoonbill",
+      "survival_guide": "Spoonbills are not dangerous to humans. Maintain a respectful distance when encountering them in the wild."
+    },
+    {
+      "name": "flamingo",
+      "survival_guide": "Flamingos are not dangerous to humans. Observe them from a distance without causing disturbances."
+    },
+    {
+      "name": "little blue heron",
+      "survival_guide": "Little blue herons are not dangerous to humans. Approach them quietly to observe without causing stress."
+    },
+    {
+      "name": "American egret",
+      "survival_guide": "American egrets are not dangerous to humans. Keep a respectful distance when encountering them in their habitat."
+    },
+    {
+      "name": "bittern",
+      "survival_guide": "Bitterns are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "crane",
+      "survival_guide": "Cranes are not dangerous to humans. Keep a safe distance when observing them in their natural habitat."
+    },
+    {
+      "name": "limpkin",
+      "survival_guide": "Limpkins are not dangerous to humans. Maintain a respectful distance to avoid startling them."
+    },
+    {
+      "name": "European gallinule",
+      "survival_guide": "European gallinules are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "American coot",
+      "survival_guide": "American coots are not dangerous to humans. Keep a safe distance when encountering them in the wild."
+    },
+    {
+      "name": "bustard",
+      "survival_guide": "Bustards are not dangerous to humans. Observe them from a distance to avoid disturbing them."
+    },
+    {
+      "name": "ruddy turnstone",
+      "survival_guide": "Ruddy turnstones are not dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "red-backed sandpiper",
+      "survival_guide": "Red-backed sandpipers are not dangerous to humans. Approach them quietly to observe without startling them."
+    },
+    {
+      "name": "redshank",
+      "survival_guide": "Redshanks are not dangerous to humans. Keep a safe distance when observing them in their natural habitat."
+    },
+    {
+      "name": "dowitcher",
+      "survival_guide": "Dowitchers are not dangerous to humans. Maintain a respectful distance to avoid disturbing them."
+    },
+    {
+      "name": "oystercatcher",
+      "survival_guide": "Oystercatchers are not dangerous to humans. Observe them from a distance to avoid causing stress."
+    },
+    {
+      "name": "pelican",
+      "survival_guide": "Pelicans are not dangerous to humans. Keep a respectful distance when encountering them in their habitat."
+    },
+    {
+      "name": "king penguin",
+      "survival_guide": "King penguins are not dangerous to humans. Maintain a respectful distance when observing them in their natural habitat."
+    },
+    {
+      "name": "albatross",
+      "survival_guide": "Albatrosses are not dangerous to humans. Keep a safe distance when encountering them in the wild."
+    },
+    {
+      "name": "grey whale",
+      "survival_guide": "Grey whales are generally not dangerous to humans. Avoid getting too close if you spot them during whale watching."
+    },
+    {
+      "name": "killer whale",
+      "survival_guide": "Killer whales are not typically dangerous to humans in the wild, but maintain a safe distance if encountered."
+    },
+    {
+      "name": "dugong",
+      "survival_guide": "Dugongs are not dangerous to humans. When snorkeling or diving, do not disturb or touch them."
+    },
+    {
+      "name": "sea lion",
+      "survival_guide": "Sea lions can be curious but avoid getting too close to them in the wild. Maintain a safe distance."
+    },
+    {
+      "name": "timber wolf",
+      "survival_guide": "Timber wolves are generally not dangerous to humans, but avoid approaching them in the wild to prevent potential conflicts."
+    },
+    {
+      "name": "white wolf",
+      "survival_guide": "White wolves are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "red wolf",
+      "survival_guide": "Red wolves are not typically dangerous to humans. Keep a safe distance if you encounter them in the wild."
+    },
+    {
+      "name": "coyote",
+      "survival_guide": "Coyotes are not typically dangerous but can become aggressive if provoked. Avoid feeding them and keep a safe distance."
+    },
+    {
+      "name": "dingo",
+      "survival_guide": "Dingoes are not typically dangerous but can be unpredictable. Keep a respectful distance and avoid direct contact."
+    },
+    {
+      "name": "dhole",
+      "survival_guide": "Dholes are not typically dangerous to humans. Keep a safe distance when observing them in their natural habitat."
+    },
+    {
+      "name": "hyena",
+      "survival_guide": "Hyenas are not typically dangerous to humans but can be aggressive if they feel threatened. Keep a safe distance."
+    },
+    {
+      "name": "red fox",
+      "survival_guide": "Red foxes are not typically dangerous to humans. Keep a safe distance when encountering them in the wild."
+    },
+    {
+      "name": "kit fox",
+      "survival_guide": "Kit foxes are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "Arctic fox",
+      "survival_guide": "Arctic foxes are not typically dangerous to humans. Keep a safe distance when encountering them in their habitat."
+    },
+    {
+      "name": "grey fox",
+      "survival_guide": "Grey foxes are not typically dangerous to humans. Approach them quietly to observe without causing stress."
+    },
+    {
+      "name": "cougar",
+      "survival_guide": "Cougars can be dangerous if they feel threatened. If you encounter one, do not run and make yourself appear larger."
+    },
+    {
+      "name": "lynx",
+      "survival_guide": "Lynxes are not typically dangerous to humans. Keep a safe distance when observing them in their natural habitat."
+    },
+    {
+      "name": "leopard",
+      "survival_guide": "Leopards can be dangerous if provoked. If you encounter one, do not run and make yourself appear larger."
+    },
+    {
+      "name": "snow leopard",
+      "survival_guide": "Snow leopards are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "jaguar",
+      "survival_guide": "Jaguars can be dangerous if provoked. If you encounter one, do not run and make loud noises to deter them."
+    },
+    {
+      "name": "lion",
+      "survival_guide": "Lions can be dangerous if provoked. If you encounter one, do not run and make yourself appear larger."
+    },
+    {
+      "name": "tiger",
+      "survival_guide": "Tigers can be dangerous if provoked. If you encounter one, do not run and slowly back away without turning your back."
+    },
+    {
+      "name": "cheetah",
+      "survival_guide": "Cheetahs are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "brown bear",
+      "survival_guide": "Brown bears can be dangerous if provoked. If you encounter one, do not run and play dead if attacked."
+    },
+    {
+      "name": "American black bear",
+      "survival_guide": "American black bears are not typically dangerous to humans. Keep a safe distance when encountering them in the wild."
+    },
+    {
+      "name": "ice bear",
+      "survival_guide": "Ice bears are polar bears and can be dangerous. Avoid direct contact and do not disturb them in their habitat."
+    },
+    {
+      "name": "sloth bear",
+      "survival_guide": "Sloth bears are generally not dangerous to humans, but they can become aggressive if they feel threatened. Avoid provoking or cornering them."
+    },
+    {
+      "name": "mongoose",
+      "survival_guide": "Mongooses are not dangerous to humans. Maintain a safe distance when encountering them in the wild."
+    },
+    {
+      "name": "meerkat",
+      "survival_guide": "Meerkats are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "tiger beetle",
+      "survival_guide": "Tiger beetles are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "ladybug",
+      "survival_guide": "Ladybugs are not dangerous to humans. Handle them gently if necessary, but avoid harming them."
+    },
+    {
+      "name": "ground beetle",
+      "survival_guide": "Ground beetles are not dangerous to humans. Handle them carefully if you need to do so."
+    },
+    {
+      "name": "long-horned beetle",
+      "survival_guide": "Long-horned beetles are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "leaf beetle",
+      "survival_guide": "Leaf beetles are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "dung beetle",
+      "survival_guide": "Dung beetles are not dangerous to humans. Handle them gently if necessary, but avoid harming them."
+    },
+    {
+      "name": "rhinoceros beetle",
+      "survival_guide": "Rhinoceros beetles are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "weevil",
+      "survival_guide": "Weevils are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "fly",
+      "survival_guide": "Flies are not dangerous to humans. Simply avoid close contact and practice good hygiene to prevent disease transmission."
+    },
+    {
+      "name": "bee",
+      "survival_guide": "Bees can sting if they feel threatened. Avoid swatting at them and move calmly if a bee is nearby."
+    },
+    {
+      "name": "ant",
+      "survival_guide": "Ants are not typically dangerous to humans. Avoid disrupting ant colonies to prevent bites or stings."
+    },
+    {
+      "name": "grasshopper",
+      "survival_guide": "Grasshoppers are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "cricket",
+      "survival_guide": "Crickets are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "walking stick",
+      "survival_guide": "Walking sticks are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "cockroach",
+      "survival_guide": "Cockroaches are not dangerous to humans, but they can carry diseases. Maintain good hygiene and prevent infestations."
+    },
+    {
+      "name": "mantis",
+      "survival_guide": "Mantises are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "cicada",
+      "survival_guide": "Cicadas are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "leafhopper",
+      "survival_guide": "Leafhoppers are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "lacewing",
+      "survival_guide": "Lacewings are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "dragonfly",
+      "survival_guide": "Dragonflies are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "damselfly",
+      "survival_guide": "Damselflies are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "admiral",
+      "survival_guide": "Admiral butterflies are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "ringlet",
+      "survival_guide": "Ringlet butterflies are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "monarch",
+      "survival_guide": "Monarch butterflies are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "cabbage butterfly",
+      "survival_guide": "Cabbage butterflies are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "sulphur butterfly",
+      "survival_guide": "Sulphur butterflies are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "lycaenid",
+      "survival_guide": "Lycaenid butterflies are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "starfish",
+      "survival_guide": "Starfish are not dangerous to humans. Handle them gently if necessary, but avoid harming them."
+    },
+    {
+      "name": "sea urchin",
+      "survival_guide": "Sea urchins can have sharp spines that may cause injury. Be cautious when walking in areas where they are present."
+    },
+    {
+      "name": "sea cucumber",
+      "survival_guide": "Sea cucumbers are not dangerous to humans. You can observe them without any specific precautions."
+    },
+    {
+      "name": "wood rabbit",
+      "survival_guide": "Wood rabbits are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "hare",
+      "survival_guide": "Hares are not typically dangerous to humans. Approach them quietly to observe without causing stress."
+    },
+    {
+      "name": "Angora",
+      "survival_guide": "Angoras are domestic rabbits known for their long, silky fur. They are not dangerous to humans. Handle them gently and provide proper care."
+    },
+    {
+      "name": "hamster",
+      "survival_guide": "Hamsters are small rodents commonly kept as pets. They are not dangerous to humans. Handle them gently and provide proper care."
+    },
+    {
+      "name": "porcupine",
+      "survival_guide": "Porcupines have quills that can be dangerous. Do not approach them, and if you encounter one, keep a safe distance."
+    },
+    {
+      "name": "fox squirrel",
+      "survival_guide": "Fox squirrels are not typically dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "marmot",
+      "survival_guide": "Marmots are not typically dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "beaver",
+      "survival_guide": "Beavers are not typically dangerous to humans. Keep a safe distance if you encounter them in the wild."
+    },
+    {
+      "name": "guinea pig",
+      "survival_guide": "Guinea pigs are small domestic rodents kept as pets. They are not dangerous to humans. Handle them gently and provide proper care."
+    },
+    {
+      "name": "sorrel",
+      "survival_guide": "Sorrel is a plant and not an animal. It is often used in salads and cooking."
+    },
+    {
+      "name": "zebra",
+      "survival_guide": "Zebras are not typically dangerous to humans. Maintain a safe distance when observing them in the wild."
+    },
+    {
+      "name": "hog",
+      "survival_guide": "Hogs can be dangerous if they feel threatened. If you encounter one, do not approach, and keep a safe distance."
+    },
+    {
+      "name": "wild boar",
+      "survival_guide": "Wild boars can be dangerous if they feel threatened. If you encounter one, do not approach and keep a safe distance."
+    },
+    {
+      "name": "warthog",
+      "survival_guide": "Warthogs are not typically dangerous to humans. Maintain a respectful distance when observing them in the wild."
+    },
+    {
+      "name": "hippopotamus",
+      "survival_guide": "Hippos are one of the most dangerous animals in Africa. Never approach a hippo in the wild, and maintain a safe distance."
+    },
+    {
+      "name": "ox",
+      "survival_guide": "Oxen are domesticated cattle used for labor. They can be large and strong but are not typically dangerous if handled by experienced individuals."
+    },
+    {
+      "name": "water buffalo",
+      "survival_guide": "Water buffaloes can be domesticated or wild. Wild ones can be dangerous if provoked. Keep a safe distance if you encounter a wild water buffalo."
+    },
+    {
+      "name": "bison",
+      "survival_guide": "Bisons are large, powerful animals. Do not approach them in the wild, and maintain a safe distance."
+    },
+    {
+      "name": "ram",
+      "survival_guide": "Rams are male sheep and are not typically dangerous to humans. Maintain a safe distance when observing them."
+    },
+    {
+      "name": "bighorn",
+      "survival_guide": "Bighorn sheep are not typically dangerous to humans. Maintain a safe distance when observing them."
+    },
+    {
+      "name": "ibex",
+      "survival_guide": "Ibexes are not typically dangerous to humans. Maintain a safe distance when observing them in the wild."
+    },
+    {
+      "name": "hartebeest",
+      "survival_guide": "Hartebeests are not typically dangerous to humans. Maintain a safe distance when observing them in the wild."
+    },
+    {
+      "name": "impala",
+      "survival_guide": "Impalas are not typically dangerous to humans. Maintain a safe distance when observing them in the wild."
+    },
+    {
+      "name": "gazelle",
+      "survival_guide": "Gazelles are not typically dangerous to humans. Maintain a safe distance when observing them in the wild."
+    },
+    {
+      "name": "Arabian camel",
+      "survival_guide": "Arabian camels are domesticated and used for transportation. They are not typically dangerous to humans if treated with respect."
+    },
+    {
+      "name": "llama",
+      "survival_guide": "Llamas are domesticated animals used for various purposes. They are not typically dangerous to humans if treated with respect."
+    },
+    {
+      "name": "weasel",
+      "survival_guide": "Weasels are small carnivorous mammals. They are not typically dangerous to humans but can be aggressive if cornered. Avoid provoking them."
+    },
+    {
+      "name": "mink",
+      "survival_guide": "Minks are not typically dangerous to humans. Maintain a safe distance when observing them in the wild."
+    },
+    {
+      "name": "polecat",
+      "survival_guide": "Polecats are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "black-footed ferret",
+      "survival_guide": "Black-footed ferrets are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "otter",
+      "survival_guide": "Otters are not typically dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "skunk",
+      "survival_guide": "Skunks are known for their defensive spray. If you encounter a skunk, move away slowly and avoid sudden movements or loud noises to prevent them from feeling threatened."
+    },
+    {
+      "name": "badger",
+      "survival_guide": "Badgers are typically solitary and not aggressive toward humans unless cornered. If you encounter one, give it space and avoid provoking it."
+    },
+    {
+      "name": "armadillo",
+      "survival_guide": "Armadillos are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "three-toed sloth",
+      "survival_guide": "Three-toed sloths are not dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "orangutan",
+      "survival_guide": "Orangutans are wild apes and can be dangerous if provoked. Do not approach or attempt to interact with them in the wild."
+    },
+    {
+      "name": "gorilla",
+      "survival_guide": "Gorillas are powerful and potentially dangerous animals. Do not approach or attempt to interact with them in the wild."
+    },
+    {
+      "name": "chimpanzee",
+      "survival_guide": "Chimpanzees are wild apes and can be aggressive. Do not approach or attempt to interact with them in the wild."
+    },
+    {
+      "name": "gibbon",
+      "survival_guide": "Gibbons are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "siamang",
+      "survival_guide": "Siamangs are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "guenon",
+      "survival_guide": "Guenons are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "patas",
+      "survival_guide": "Patas monkeys are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "baboon",
+      "survival_guide": "Baboons can be aggressive and have sharp teeth. Do not approach or feed them and maintain a safe distance."
+    },
+    {
+      "name": "macaque",
+      "survival_guide": "Macaques are known to steal food and can be aggressive. Do not approach or feed them and maintain a safe distance."
+    },
+    {
+      "name": "langur",
+      "survival_guide": "Langurs are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "colobus",
+      "survival_guide": "Colobus monkeys are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "proboscis monkey",
+      "survival_guide": "Proboscis monkeys are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "marmoset",
+      "survival_guide": "Marmosets are not typically dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "capuchin",
+      "survival_guide": "Capuchin monkeys are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "howler monkey",
+      "survival_guide": "Howler monkeys are known for their loud calls. Maintain a safe distance if you encounter them in the wild."
+    },
+    {
+      "name": "titi",
+      "survival_guide": "Titis are not typically dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "spider monkey",
+      "survival_guide": "Spider monkeys are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "squirrel monkey",
+      "survival_guide": "Squirrel monkeys are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "Madagascar cat",
+      "survival_guide": "They are not typically dangerous to humans, it is important to exercise caution when encountering them in the wild."
+    },
+    {
+      "name": "indri",
+      "survival_guide": "Indris are not typically dangerous to humans. Maintain a respectful distance when observing them."
+    },
+    {
+      "name": "Indian elephant",
+      "survival_guide": "Indian elephants are wild animals and can be dangerous if provoked. Do not approach or attempt to interact with them in the wild."
+    },
+    {
+      "name": "African elephant",
+      "survival_guide": "African elephants are wild animals and can be dangerous if provoked. Do not approach or attempt to interact with them in the wild."
+    },
+    {
+      "name": "lesser panda",
+      "survival_guide": "Lesser pandas, also known as red pandas, are not typically dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "giant panda",
+      "survival_guide": "Giant pandas are not typically dangerous to humans. Approach them calmly to observe without causing stress."
+    },
+    {
+      "name": "barracouta",
+      "survival_guide": "Barracouta is a type of fish. If fishing, be cautious when handling sharp-toothed fish and use appropriate gear."
+    },
+    {
+      "name": "eel",
+      "survival_guide": "Eels are not typically dangerous to humans. Be cautious when handling them to avoid bites."
+    },
+    {
+      "name": "coho",
+      "survival_guide": "Coho salmon is a type of fish. If fishing, follow local regulations and be cautious when handling fish."
+    },
+    {
+      "name": "rock beauty",
+      "survival_guide": "Rock beauty is a type of angelfish. If snorkeling or diving, be cautious around marine life and avoid touching or disturbing them."
+    },
+    {
+      "name": "anemone fish",
+      "survival_guide": "Anemone fish are not typically dangerous to humans. Be cautious when snorkeling or diving and avoid touching or disturbing them."
+    },
+    {
+      "name": "sturgeon",
+      "survival_guide": "Sturgeon is a type of fish. If fishing, be cautious when handling fish and use appropriate gear."
+    },
+    {
+      "name": "gar",
+      "survival_guide": "Gars are not typically dangerous to humans. Be cautious when fishing and handling fish."
+    },
+    {
+      "name": "lionfish",
+      "survival_guide": "Lionfish have venomous spines that can deliver a painful sting. If you encounter a lionfish while diving or snorkeling, do not touch or approach them. Maintain a safe distance and alert others in your group. If stung, seek medical attention immediately."
+    },
+    {
+      "name": "puffer",
+      "survival_guide": "Pufferfish contain a potent neurotoxin called tetrodotoxin, especially in their internal organs. Never attempt to catch or prepare pufferfish without proper training and certification. Consuming improperly prepared pufferfish can be lethal. It is recommended to avoid handling or consuming pufferfish unless you are an expert in their safe preparation."
+    }
+  ]
+}
