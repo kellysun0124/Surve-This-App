@@ -1,5 +1,10 @@
 # Will I Survive?
 ---
+Will you survive this wild animal encounter!?\
+Take a picture and this app will tell you how to live!\
+Here's a [demo video](https://youtu.be/bRFoK45kmZ0)
+
+
 iOS app to select a picture / take a picture, and see what it is and tips of surviving an encounter.
 
 
